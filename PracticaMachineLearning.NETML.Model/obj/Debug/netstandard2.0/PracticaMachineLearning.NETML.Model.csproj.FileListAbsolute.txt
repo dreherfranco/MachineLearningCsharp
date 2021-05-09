@@ -1,0 +1,10 @@
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\bin\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.deps.json
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\bin\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.dll
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\bin\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.pdb
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\obj\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.csprojAssemblyReference.cache
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\obj\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.AssemblyInfoInputs.cache
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\obj\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.AssemblyInfo.cs
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\obj\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.csproj.CoreCompileInputs.cache
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\obj\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.dll
+C:\Users\drehe\source\repos\PracticaMachineLearning.NET\PracticaMachineLearning.NETML.Model\obj\Debug\netstandard2.0\PracticaMachineLearning.NETML.Model.pdb
